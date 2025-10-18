@@ -1,0 +1,23 @@
+.navbar {
+    background-color: burlywood;
+
+}
+
+.btn{
+    border-color: brown;
+    color: brown;
+    
+}
+
+.navbar-nav{
+    gap: 50px;
+}
+
+body{
+    background-color: rgb(188, 155, 112);
+    text-align: center;
+}
+.btn-outline-success:hover{
+    background-color: brown;
+    border-color: brown;
+}
