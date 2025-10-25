@@ -1,0 +1,14 @@
+[
+    {
+        "title": "DEUTZ-FAHR 6C RVShift",
+        "price": 95000,
+        "image": "FS25_DEUTZ-FAHR_6C_RVShift.png",
+        "description": "Power 143 hp Speed 50 kph Weight5,5 tons Fuel 160 L"
+    },
+    {
+        "title": "Kverneland AB 85",
+        "price": 12000,
+        "image": "Kverneland-ab85.png",
+        "description": "Working width: 1.9m Required power: 68 kW / 92 hp"
+    }
+]

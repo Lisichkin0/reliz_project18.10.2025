@@ -21,3 +21,20 @@ body{
     background-color: brown;
     border-color: brown;
 }
+
+.card {
+    background-color: rgb(56, 57, 57);
+    color: white;
+}
+
+.btn-primary{
+    background-color: rgb(18, 108, 0);
+    border: 0;
+    color: black
+}
+
+.btn-primary:hover{
+    background-color: rgb(43, 255, 0);
+    border: 0;
+    color: black
+}
