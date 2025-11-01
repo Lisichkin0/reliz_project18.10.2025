@@ -1,12 +1,8 @@
+
+
 .navbar {
-    background-color: burlywood;
+    background-color: rgb(20, 37, 37, 75);
 
-}
-
-.btn{
-    border-color: brown;
-    color: brown;
-    
 }
 
 .navbar-nav{
@@ -14,8 +10,9 @@
 }
 
 body{
-    background-color: rgb(188, 155, 112);
+    background-image: url("/img/background1.png");
     text-align: center;
+
 }
 .btn-outline-success:hover{
     background-color: brown;
