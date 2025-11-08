@@ -1,10 +1,33 @@
 [
     {
+        "title": "7200 Pro Series",
+        "price": 98000,
+        "image": "FS19_CaseIH-7200ProSeries.png",
+        "description": "Power: 170-261 hp; Speed: 500 km/h; Fuel: 445 L"
+    },
+    {
         "title": "DEUTZ-FAHR 6C RVShift",
         "price": 95000,
         "image": "FS25_DEUTZ-FAHR_6C_RVShift.png",
-        "description": "Power 143 hp Speed 50 kph Weight5,5 tons Fuel 160 L"
+        "description": "Power: 126 - 143 hp hp; Speed: 50 km/h; Fuel: 160 L"
     },
+    {
+        "title": "S Series",
+        "price": 254000,
+        "image": "FS25_Valtra_S_Series.png",
+        "description": "Power: 280 - 420 hp; Speed: 50 km/h; Fuel: 610 L"
+    },
+    {
+        "title": "Quadtrac Series",
+        "price": 412000,
+        "image": "FS19_CaseIH-QuadtracSeries.png",
+        "description": "Power: 525 hp; Speed: 43 km/h; Fuel: 1880 L"
+    },
+
+
+
+
+
     {
         "title": "Kverneland AB 85",
         "price": 12000,

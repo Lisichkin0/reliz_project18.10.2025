@@ -1,5 +1,4 @@
 
-
 .navbar {
     background-color: rgb(20, 37, 37, 75);
 
@@ -12,8 +11,15 @@
 body{
     background-image: url("/img/background1.png");
     text-align: center;
-
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center; 
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
+
 .btn-outline-success:hover{
     background-color: brown;
     border-color: brown;
@@ -34,4 +40,10 @@ body{
     background-color: rgb(43, 255, 0);
     border: 0;
     color: black
+}
+
+.products-list{ 
+    display: flex;
+    gap: 150px;
+    flex-wrap: wrap;
 }
