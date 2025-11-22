@@ -33,5 +33,15 @@
         "price": 12000,
         "image": "Kverneland-ab85.png",
         "description": "Working width: 1.9m Required power: 68 kW / 92 hp"
+    },
+
+
+
+
+    {
+        "title": "Actros L",
+        "price": 124500,
+        "image": "FS25_Mercedes-Benz_Actros_L.png",
+        "description": "Power: 326 - 625 hp; Speed: 90 km/h; Fuel: 890 L"
     }
 ]
